@@ -1,4 +1,7 @@
-## Hi there 👋
 
 
-Meu nome é Marcos Vinícius, estou formando em Análise e Desenvolvimento de Sistemas, com foco no desenvolvimento de soluções tecnológicas eficientes e inovadoras. Tenho experiência em programação com ênfase em Java avançado, além de conhecimentos básicos em Python.
+
+Sou Marcos Vinícius, formando em Análise e Desenvolvimento de Sistemas, com experiência em Java, JavaScript, Angular,conhecimentos basicos em Python, além de ferramentas como UIPath e Power BI.
+
+
+Meu email: marcos.l.balieiro@gmail.com
